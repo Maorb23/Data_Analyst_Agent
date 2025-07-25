@@ -1,0 +1,13 @@
+// LangGraph Agent Flow
+digraph {
+	classifier [label=classifier]
+	structured [label=structured]
+	unstructured [label=unstructured]
+	refuse [label=refuse]
+	summary [label=summary]
+	summary -> __end__
+	unstructured -> summary
+	__start__ -> classifier
+	structured -> summary
+	refuse -> __end__
+}
