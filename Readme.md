@@ -72,9 +72,6 @@ Pull requests and issues are welcome! To contribute:
 3. Commit your changes
 4. Open a pull request
 
-## License
-MIT License
-
 ## Acknowledgements
 - [LangChain](https://python.langchain.com/)
 - [LangGraph](https://github.com/langchain-ai/langgraph)
@@ -82,6 +79,3 @@ MIT License
 - [OpenAI](https://openai.com/)
 - [Graphviz](https://graphviz.gitlab.io/)
 
----
-
-For more, see the code and issues at [https://github.com/Maorb23/Data_Analyst_Agent](https://github.com/Maorb23/Data_Analyst_Agent)
